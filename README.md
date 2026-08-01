@@ -6,3 +6,5 @@ Four-function inline calculator in JavaScript.
 Clone this project and look at the source files:
 - `index.html`
 - `calc.js`
+
+*Initialized by wlakernotalnanathan workspace automation.*
